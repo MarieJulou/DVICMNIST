@@ -23,4 +23,28 @@ body{
     border-radius: 1rem;
     overflow: hidden;
     background-color: cadetblue;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
+}
+canvas{
+    background-color: black;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.bar {
+    height: 100px;
+    width: 0.5rem;
+    background-color: grey;
+    border-radius: 1rem;
+    margin: 1rem 0
+
+}
+
+.label {
+    margin: 1rem 0;
 }
