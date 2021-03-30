@@ -48,3 +48,12 @@ canvas{
 .label {
     margin: 1rem 0;
 }
+
+.argmax {
+    font-weight: 900;
+    color: cornflowerblue;
+}
+
+.argmax .bar {
+    background-color: cornflowerblue;
+}
