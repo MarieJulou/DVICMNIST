@@ -18,3 +18,9 @@ body{
     font-size: 3rem;
     font-weight: 900;
 }
+#card{
+    width: 250px;
+    border-radius: 1rem;
+    overflow: hidden;
+    background-color: cadetblue;
+}
